@@ -1,0 +1,8 @@
+body {
+    font-family: 'Courier New', Courier, monospace; /* Sets page font */
+    text-align:center; /* alignes simmilar to docs */
+}
+
+#board {
+    background-color: aqua; /* Makes the bule box where the board canvas is */
+}
