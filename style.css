@@ -5,4 +5,5 @@ body {
 
 #board {
     background-color: aqua; /* Makes the bule box where the board canvas is */
+    background-image: url(/textures/flappybirdbg.png); /* Sets the immage as background */   
 }
